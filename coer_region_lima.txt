@@ -1,0 +1,49 @@
+
+Política de Privacidad para la App Móvil del Centro de Operaciones de Emergencia Regional (COER) Región Lima
+Introducción
+En el Centro de Operaciones de Emergencia Regional (COER) Región Lima, valoramos y respetamos la privacidad de nuestros usuarios. Esta política de privacidad describe cómo recopilamos, utilizamos, divulgamos y protegemos su información personal cuando utiliza nuestra aplicación móvil. Al descargar y usar nuestra aplicación, usted acepta las prácticas descritas en esta política.
+
+Información que Recopilamos
+Información Personal
+Podemos recopilar la siguiente información personal de los usuarios:
+
+Datos de Contacto: Nombre, dirección de correo electrónico, número de teléfono.
+Ubicación: Datos de ubicación geográfica, con su consentimiento, para proporcionar servicios de emergencia más precisos.
+Información del Dispositivo: Tipo de dispositivo, sistema operativo, identificadores únicos de dispositivos.
+Información No Personal
+También recopilamos información no personal que no identifica a un individuo en particular:
+
+Datos de uso de la aplicación, como las páginas visitadas, el tiempo de uso y las interacciones con la aplicación.
+Datos de diagnóstico para mejorar la funcionalidad y el rendimiento de la aplicación.
+Cómo Usamos la Información
+Utilizamos la información recopilada para los siguientes fines:
+
+Prestación de Servicios: Para ofrecer servicios de emergencia y asistencia en tiempo real.
+Mejora de la Aplicación: Para analizar el uso de la aplicación y mejorar su funcionalidad y contenido.
+Comunicación: Para enviar notificaciones, alertas de emergencia y actualizaciones relevantes.
+Seguridad: Para proteger la seguridad e integridad de nuestros servicios y de nuestros usuarios.
+Compartición de Información
+No vendemos, intercambiamos ni transferimos de ninguna otra manera su información personal a terceros sin su consentimiento, salvo en las siguientes circunstancias:
+
+Proveedores de Servicios: Podemos compartir información con proveedores de servicios que nos ayudan a operar y mejorar nuestra aplicación.
+Obligaciones Legales: Podemos divulgar información si así lo exige la ley o en respuesta a un proceso legal.
+Emergencias: En situaciones de emergencia, podemos compartir información con autoridades competentes para proteger la seguridad de los usuarios y del público.
+Seguridad de la Información
+Implementamos medidas de seguridad técnicas y organizativas adecuadas para proteger su información personal contra acceso no autorizado, pérdida, uso indebido o alteración.
+
+Retención de Datos
+Retenemos su información personal solo durante el tiempo que sea necesario para cumplir con los fines para los que fue recopilada, incluyendo los requisitos legales y reglamentarios.
+
+Derechos del Usuario
+Usted tiene derecho a acceder, corregir, actualizar y eliminar su información personal. Puede ejercer estos derechos contactándonos a través de los medios especificados a continuación.
+
+Cambios en la Política de Privacidad
+Nos reservamos el derecho de actualizar esta política de privacidad en cualquier momento. Notificaremos cualquier cambio publicando la nueva política en esta aplicación y actualizando la fecha de "Última actualización" en la parte superior de esta política.
+
+Contacto
+Si tiene alguna pregunta o inquietud acerca de esta política de privacidad o sobre cómo manejamos su información personal, por favor, contáctenos a través de:
+
+Correo Electrónico: privacidad@coerregionlima.gob.pe
+Dirección: Av. Principal 123, Lima, Perú
+Teléfono: +51 1 123 4567
+Gracias por confiar en el Centro de Operaciones de Emergencia Regional (COER) Región Lima. Estamos comprometidos a proteger su privacidad y a proporcionar servicios seguros y eficientes.
