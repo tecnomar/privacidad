@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/:file", "destination": "/:file" }
+  ]
+}
+
