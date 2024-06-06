@@ -1,23 +1,27 @@
+
 Política de Privacidad y Seguridad de Datos para la Aplicación "Moto Segura"
 1. Introducción
 En la aplicación "Moto Segura", estamos comprometidos con la protección de la privacidad y seguridad de los datos de nuestros usuarios. Esta política establece las pautas y procedimientos que seguimos para garantizar la confidencialidad, integridad y disponibilidad de la información recopilada y procesada a través de nuestra aplicación.
-2. Recopilación de Datos
-* 		Solo recopilaremos la información estrictamente necesaria para brindar los servicios ofrecidos por la aplicación "Moto Segura".
-* 		Solicitaremos el consentimiento explícito del usuario antes de recopilar cualquier dato personal.
-* 		Limitaremos la recopilación de datos a aquellos necesarios para el funcionamiento de la aplicación y mejoras en la experiencia del usuario.
-3. Uso de Datos
-* 		Los datos recopilados se utilizarán únicamente con el propósito específico para el cual fueron proporcionados.
-* 		No compartiremos ni venderemos información personal de los usuarios a terceros sin su consentimiento expreso, a menos que sea requerido por ley.
-* 		Los datos se utilizarán para mejorar continuamente la funcionalidad y seguridad de la aplicación "Moto Segura".
-4. Protección de Datos
-* 		Implementaremos medidas de seguridad adecuadas para proteger los datos de los usuarios contra accesos no autorizados, divulgación, alteración o destrucción.
-* 		Utilizaremos técnicas de cifrado y protocolos de seguridad de la industria para proteger la transmisión y almacenamiento de datos.
-* 		Mantendremos los sistemas y software actualizados para mitigar vulnerabilidades de seguridad y asegurar la integridad de los datos.
-5. Derechos de los Usuarios
-* 		Respetaremos los derechos de privacidad de los usuarios y proporcionaremos opciones claras para controlar la recopilación y uso de sus datos.
-* 		Facilitaremos el acceso, corrección y eliminación de datos personales a solicitud del usuario, siempre que sea técnicamente factible y legalmente permitido.
-6. Cumplimiento Normativo
-* 		Nos comprometemos a cumplir con todas las leyes y regulaciones aplicables en materia de privacidad y protección de datos.
-* 		Monitorearemos regularmente nuestras prácticas de privacidad y seguridad para garantizar su conformidad con los estándares y mejores prácticas de la industria.
-Esta política de privacidad y seguridad de datos es parte integral de la aplicación "Moto Segura" y será revisada y actualizada periódicamente para reflejar cambios en nuestras prácticas y en la legislación aplicable.
 
+2. Recopilación de Datos
+Solo recopilaremos la información estrictamente necesaria para brindar los servicios ofrecidos por la aplicación "Moto Segura".
+Solicitaremos el consentimiento explícito del usuario antes de recopilar cualquier dato personal.
+Limitaremos la recopilación de datos a aquellos necesarios para el funcionamiento de la aplicación y mejoras en la experiencia del usuario.
+3. Uso de Datos
+Los datos recopilados se utilizarán únicamente con el propósito específico para el cual fueron proporcionados.
+No compartiremos ni venderemos información personal de los usuarios a terceros sin su consentimiento expreso, a menos que sea requerido por ley.
+Los datos se utilizarán para mejorar continuamente la funcionalidad y seguridad de la aplicación "Moto Segura".
+4. Protección de Datos
+Implementaremos medidas de seguridad adecuadas para proteger los datos de los usuarios contra accesos no autorizados, divulgación, alteración o destrucción.
+Utilizaremos técnicas de cifrado y protocolos de seguridad de la industria para proteger la transmisión y almacenamiento de datos.
+Mantendremos los sistemas y software actualizados para mitigar vulnerabilidades de seguridad y asegurar la integridad de los datos.
+5. Derechos de los Usuarios
+Respetaremos los derechos de privacidad de los usuarios y proporcionaremos opciones claras para controlar la recopilación y uso de sus datos.
+Facilitaremos el acceso, corrección y eliminación de datos personales a solicitud del usuario, siempre que sea técnicamente factible y legalmente permitido.
+6. Cumplimiento Normativo
+Nos comprometemos a cumplir con todas las leyes y regulaciones aplicables en materia de privacidad y protección de datos.
+Monitorearemos regularmente nuestras prácticas de privacidad y seguridad para garantizar su conformidad con los estándares y mejores prácticas de la industria.
+7. Política de Privacidad para la Ficha de Play Store
+Incluye una política de privacidad en tu ficha de Play Store para proporcionar a los usuarios más información sobre cómo utilizas sus datos sensibles y los de su dispositivo. Más información. Debes añadir una política de privacidad si tu audiencia objetivo incluye menores de 13 años. Para evitar infracciones comunes, consulta la Política de Datos de Usuario.
+
+Esta política de privacidad y seguridad de datos es parte integral de la aplicación "Moto Segura" y será revisada y actualizada periódicamente para reflejar cambios en nuestras prácticas y en la legislación aplicable.
