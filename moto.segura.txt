@@ -1,6 +1,7 @@
 Política de Privacidad y Seguridad de Datos para la Aplicación "Moto Segura"
 
 Introducción
+
 En la aplicación "Moto Segura", nos comprometemos a proteger la privacidad y seguridad de los datos de nuestros usuarios. Esta política describe las pautas y procedimientos que seguimos para asegurar la confidencialidad, integridad y disponibilidad de la información recopilada y procesada a través de nuestra aplicación.
 
 Recopilación de Datos
@@ -26,8 +27,34 @@ Cumplimiento Normativo
 
 Nos comprometemos a cumplir con todas las leyes y regulaciones aplicables en materia de privacidad y protección de datos.
 Monitoreamos regularmente nuestras prácticas de privacidad y seguridad para garantizar su conformidad con los estándares y mejores prácticas de la industria.
-Política de Privacidad para la Ficha de Play Store
+Contacto
 
-Incluimos una política de privacidad en nuestra ficha de Play Store para proporcionar a los usuarios información clara sobre cómo utilizamos sus datos sensibles y los de sus dispositivos. Más información está disponible en la Política de Datos de Usuario de Google.
-Añadimos una política de privacidad si nuestra audiencia objetivo incluye menores de 13 años para cumplir con las regulaciones aplicables.
+Actualizaciones a esta Política
+
 Esta política de privacidad y seguridad de datos es parte integral de la aplicación "Moto Segura" y será revisada y actualizada periódicamente para reflejar cambios en nuestras prácticas y en la legislación aplicable.
+
+Enlace a la Política de Privacidad
+
+Esta política de privacidad está disponible en una URL activa, accesible públicamente y sin geoperimetraje: [enlace a la URL activa de la política de privacidad].
+
+Enlace a la Política de Privacidad en la Ficha de Play Store
+
+Puede consultar nuestra política de privacidad directamente en nuestra ficha de Play Store: [enlace a la ficha de Play Store].
+
+Explicación de la Gestión de Datos
+
+Tipos de Datos Recopilados
+
+Datos personales y sensibles como nombre, dirección de correo electrónico, número de teléfono, datos de ubicación, y cualquier otro dato necesario para el funcionamiento de la aplicación.
+Uso de Datos
+
+Los datos recopilados se utilizan para proporcionar y mejorar nuestros servicios, cumplir con requisitos legales y garantizar la seguridad de nuestros usuarios.
+Compartición de Datos
+
+Compartimos datos personales con terceros únicamente con el consentimiento explícito del usuario, o cuando sea necesario para cumplir con la ley.
+Seguridad de los Datos
+
+Utilizamos medidas de seguridad estándar de la industria para proteger los datos de los usuarios contra accesos no autorizados, divulgación, alteración o destrucción.
+Política de Conservación y Eliminación de Datos
+
+Conservamos los datos personales durante el tiempo necesario para cumplir con los fines para los cuales fueron recopilados, o según lo requiera la ley. Los datos se eliminan de manera segura cuando ya no son necesarios.
